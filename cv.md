@@ -18,4 +18,4 @@
 ## Languages
 * Russian - Native
 * English - Intermediate
-* Japanese - Intermediate
+
