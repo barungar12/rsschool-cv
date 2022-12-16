@@ -118,3 +118,7 @@ body, ul {
 img {
   width: 100px;
 }
+
+main img {
+  width: 200px;
+}
